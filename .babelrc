@@ -1,0 +1,9 @@
+{
+  "presets": ["env", "react"],
+  "plugins": [
+    "babel-plugin-styled-components",
+    "transform-class-properties",
+    "transform-object-rest-spread",
+    "react-docgen"
+  ]
+}
